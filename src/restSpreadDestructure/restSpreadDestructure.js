@@ -10,7 +10,7 @@ let student = { id: 1, name: "Engin" } // object notation denilir.
 // Bir kod bloğunun sonuna ';' ifadesi koyulsa da koyulmasa da olur. 
 // Editördeki yazı fontunu büyültmek için Ctrl + , küçültmek içinse Ctrl -
 // tuşları kullanılıyor.
- 
+
 // console.log(student);
 
 function save(puan = 10, ogrenci) {
