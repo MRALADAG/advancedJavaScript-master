@@ -113,7 +113,7 @@ function someFunction([small1], number) {
 }
 
 someFunction(populations)
-// Bu ifadeye göre fonksiyona bir ar ray verileceği ve bu array'in ilk değerinin
+// Bu ifadeye göre fonksiyona bir array verileceği ve bu array'in ilk değerinin
 // small1'e aktarılacağı anlamına geliyor. Örneğin fonksiyon parametresiz olarak
 // someFunction() şeklinde kullanılacak olursa program hata verecektir.
 // Çünkü bu fonksiyon tanımıyla biz fonksiyonu array almaya zorunlu kılıyoruz.
@@ -129,3 +129,7 @@ console.log(id)
 console.log(name)
 // Burada ise object şeklindeki nesne distruct edilmiştir.
 // Bu yapı redux de sıklıkla kullanılmaktadır. 
+// Burada name objesi gibi daha önce Visual Studio Code
+// kütüphanesinde aynı isimde herhangi bir değer mesela 
+// snippet gibi bir şey olduğu için bize deprecated olduğunu bildirmek için 
+// üstünü çiziyor.

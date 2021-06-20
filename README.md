@@ -1,2 +1,3 @@
 # advancedJavaScript
-Base repository for Siemens Advanced JS Course
+JavaScript baþlangýç kodlarý
+Rest, Spread, Desructure konularýyla ilgili kodlar var.
