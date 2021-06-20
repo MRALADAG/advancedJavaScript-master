@@ -1,0 +1,23 @@
+			KURULUMLAR
+
+* advancedJavaScript-master dosyasýný bilgisayarýmýzda bulunmasýný
+  istediðimiz yere çýkardýktan sonra Visual Studio Code da
+  file > open file dan dosyayý gösterip açarýz.
+
+* advancedJavaScript-master dosyasý JavaScript, Vue, React gibi
+  yazýlýmlariçin birer þablon görevini görecek.
+
+* Terminal kýsmýndan Command Prompt seçilip, terminal ekranýna
+  >npm install yazýlýp paketler yüklenir.
+
+* Daha sonra terminalde live server'ý çalýþtýrmak için;
+  >npm run dev 
+  yazýlýp enter'a basýlýr ve proje çalýþtýrýlýr.
+
+* Daha sonra default browser'ýmýzda yeni sekmede çalýþtýracaðýmýz
+  kodlarýn çýktýlarýný görebiliriz.
+
+* Rahat çalýþmak için birkaç adet eklenti kurulmalýdýr. Extensions
+  menüsünden bu eklentiler kurulmalýdýr. Buradan Auto Import 1.5.4 ,
+  Auto Rename Tag 0.1.6 , Bracket Pair Colorizer 1.0.61 ,
+  Material Icon Theme 4.7.0 , Path Intellisense 2.3.0 kurulur.
