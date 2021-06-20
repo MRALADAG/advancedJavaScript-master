@@ -8,7 +8,7 @@ let student = { id: 1, name: "Engin" } // object notation denilir.
 // Bir değişken tanımlanacağı zaman let key word'ü kullanılır.
 // Bir kod bloğunun sonuna ';' ifadesi koyulsa da koyulmasa da olur. 
 
-// console.log(student);
+// console.log(student); 
 
 function save(puan = 10, ogrenci) {
     console.log(ogrenci.name + " : " + puan)
