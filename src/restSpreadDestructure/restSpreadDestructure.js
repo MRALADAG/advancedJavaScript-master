@@ -8,6 +8,8 @@ let student = { id: 1, name: "Engin" } // object notation denilir.
 // Yazdığımız kodları otmatik olarak editörde düzenlemek için shift + Alt + F kullanılıyor.
 // Bir değişken tanımlanacağı zaman let key word'ü kullanılır.
 // Bir kod bloğunun sonuna ';' ifadesi koyulsa da koyulmasa da olur. 
+// Editördeki yazı fontunu büyültmek için Ctrl + , küçültmek içinse Ctrl -
+// tuşları kullanılıyor.
 
 // console.log(student);
 
